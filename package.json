@@ -1,10 +1,10 @@
 {
   "name": "detect-browser-node-ssr",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "files": [
-    "./dist",
-    "./src"
+    "/dist",
+    "/src"
   ],
   "~~module": "./dist/index.mjs",
   "module": "./dist/index.esm.mjs",
