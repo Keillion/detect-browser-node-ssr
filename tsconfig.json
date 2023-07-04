@@ -12,7 +12,7 @@
       "sourceMap": true,
       "declaration": true,
       "declarationMap": true,
-      "declarationDir": "./types",
+      "declarationDir": ".",
       "noImplicitAny": true,
       //"types": ["node"]
   },
